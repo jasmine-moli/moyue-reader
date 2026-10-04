@@ -1,0 +1,5 @@
+{
+  "build": "2026-10-04 20:34",
+  "apk": "https://cdn.jsdelivr.net/gh/jasmine-moli/moyue-reader@main/moyue-202610042034.apk",
+  "notes": "更新链路修复：清单改走 raw（jsDelivr 分支缓存最长 12 小时，实测会漏掉新版本），安装包每次发版用唯一文件名，避免下到旧包"
+}
